@@ -1,0 +1,1 @@
+- Use bullets shot out of player as a jetpack to move the player in different directions and added a swing
