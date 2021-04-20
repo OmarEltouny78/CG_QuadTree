@@ -7,7 +7,7 @@ public class playerMove : MonoBehaviour
     public CharacterController controller;
     private Vector3 direction;
     public float speed = 8;
-    public float jumpSpeed = 10;
+    public float jumpSpeed = 40;
     public float gravity = -20;
     public Transform groundCheck;
     public LayerMask groundLayer;
